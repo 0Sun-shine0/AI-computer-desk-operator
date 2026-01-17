@@ -32,3 +32,7 @@ tests/__pycache__/
 
 # Environment files
 .env
+
+# Dataset samples and evaluation results
+ai_operator_dataset/samples/
+ai_operator_dataset/model_evaluation_results.json
